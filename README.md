@@ -1,0 +1,2 @@
+# LoggingApp
+Hackathon Logging App
